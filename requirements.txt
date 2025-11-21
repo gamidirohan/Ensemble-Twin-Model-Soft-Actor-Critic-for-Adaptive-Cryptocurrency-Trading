@@ -1,0 +1,11 @@
+stable-baselines3
+gymnasium
+ccxt
+pandas
+numpy
+matplotlib
+ta
+optuna
+ray[tune]
+ray[air]
+torch
